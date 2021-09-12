@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppTest</string>
+    <string name="title_activity_news_article_detail_host">NewsArticle Detail Host Activity</string>
+    <string name="title_newsarticle_list">NewsArticles</string>
+    <string name="title_newsarticle_detail">NewsArticle Detail</string>
+    <string name="news_image">News Image</string>
+    <string name="no_data">No Data</string>
+    <string name="title_activity_item_detail_host">ItemDetailHostActivity</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+</resources>
